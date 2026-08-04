@@ -37,11 +37,19 @@ When motion is detected, the LED turns ON.
 When no motion is detected, the LED turns OFF after the programmed delay.
 Verify the operation by repeating the simulation several times.
 
-**Circuit Diagram **
+**Circuit Diagram**
+
+<img width="1917" height="960" alt="Screenshot 2026-08-04 141801" src="https://github.com/user-attachments/assets/ea6567d8-f02c-403f-a0d8-d72cd09b9e13" />
+
+
+
 
 
 
 **Output**
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-04 141831" src="https://github.com/user-attachments/assets/460c3df4-540c-40ca-a612-7c85d5491caf" />
+
 
 
 
